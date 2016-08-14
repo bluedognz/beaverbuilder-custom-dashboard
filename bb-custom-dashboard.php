@@ -47,9 +47,17 @@ function custom_dashboard_widget() {
   {
   margin-left: -5px;
   }
-  #dashboard-widgets .empty-container
+  #dashboard-widgets .meta-box-sortables
   {
-  display: none;
+  display: inline;
+  }
+  .metabox-holder .postbox-container .empty-container
+  {
+  border: 0;
+  }
+  .metabox-holder .postbox-container .empty-container:after
+  {
+  content: none;
   }
   </style>
 
