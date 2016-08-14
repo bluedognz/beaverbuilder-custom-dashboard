@@ -35,6 +35,24 @@ function custom_dashboard_widget() {
 	}
 	?>
 
+  <style type="text/css">
+  #custom-id.welcome-panel
+  {
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  border: 0px;
+  }
+  #custom-id.welcome-panel .fl-node-content
+  {
+  margin-left: -5px;
+  }
+  #dashboard-widgets .empty-container
+  {
+  display: none;
+  }
+  </style>
+
 	<div id="custom-id" class="welcome-panel" style="display: none;">
 		<div class="welcome-panel-content">
 			<?php echo do_shortcode( '[fl_builder_insert_layout slug="dashboard" type="fl-builder-template"]' ); ?>
