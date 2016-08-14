@@ -37,7 +37,7 @@ function custom_dashboard_widget() {
 
 	<div id="custom-id" class="welcome-panel" style="display: none;">
 		<div class="welcome-panel-content">
-			<p><?php echo do_shortcode( '[fl_builder_insert_layout slug="dashboard" type="fl-builder-template"]' ); ?></p>
+			<?php echo do_shortcode( '[fl_builder_insert_layout slug="dashboard" type="fl-builder-template"]' ); ?>
 		</div>
 	</div>
 
