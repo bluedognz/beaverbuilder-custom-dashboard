@@ -17,6 +17,9 @@ This plugin removes all the default WordPress Admin Widgets and displays a Beave
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/oazyzrS9nCM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+https://youtu.be/oazyzrS9nCM
+
+
 
 
 
@@ -217,3 +220,7 @@ This plugin removes all the default WordPress Admin Widgets and displays a Beave
 
 
 
+
+
+
+4
