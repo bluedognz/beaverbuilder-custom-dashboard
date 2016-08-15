@@ -13,8 +13,9 @@ This plugin removes all the default WordPress Admin Widgets and displays a Beave
 
 2. Upload and activate the plugin.
 
-#Screenshots:
+#Video Review:
 
+<iframe width="853" height="480" src="https://www.youtube.com/embed/oazyzrS9nCM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 
 
@@ -163,5 +164,56 @@ This plugin removes all the default WordPress Admin Widgets and displays a Beave
 
 
 
+44
 
-4
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
