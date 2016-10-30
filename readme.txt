@@ -8,6 +8,10 @@ Copyright 2016 Blue Dog Digital Marketing Pty Ltd
 Change Log
 *********
 
+0.4 - October 2016
+
+- Refactored code - Thanks Jason Hipwell!
+
 0.3 - August 2016
 
 - CSS tweaks. Thanks David Waumsley!
