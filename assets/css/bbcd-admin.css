@@ -1,0 +1,22 @@
+#bbcd-layout.welcome-panel {
+	margin: 0;
+	padding: 0;
+	background-color: transparent;
+	border: 0px;
+}
+
+#bbcd-layout .welcome-panel-content {
+    margin-left: 0;
+    max-width: none;
+}
+
+#dashboard-widgets .meta-box-sortables {
+	display: inline;
+}
+
+.metabox-holder .postbox-container .empty-container {
+	border: 0;
+}
+.metabox-holder .postbox-container .empty-container:after {
+	content: none;
+}
