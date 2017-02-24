@@ -19,6 +19,10 @@ This plugin removes all the default WordPress Admin Widgets and displays a Beave
 
 https://youtu.be/oazyzrS9nCM
 
+#Screenshot:
+
+https://www.dropbox.com/s/citohs5urxqqlud/screencapture-wordpress-29868-66506-181639-cloudwaysapps-wp-admin-index-php-1487963333288.png?dl=0
+
 
 
 
