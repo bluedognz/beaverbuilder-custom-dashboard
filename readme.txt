@@ -1,6 +1,6 @@
 --------------------------------
 
-Copyright 2016 Blue Dog Digital Marketing Pty Ltd
+Copyright 2016 Blue Dog Digital Marketing
 
 --------------------------------
 
