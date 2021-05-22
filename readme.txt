@@ -8,6 +8,11 @@ Copyright 2016 Blue Dog Digital Marketing
 Change Log
 *********
 
+0.5 - May 2021
+
+- It's still alive!
+- Minor css tweak to hide dashboard widgets
+
 0.4 - October 2016
 
 - Refactored code - Thanks Jason Hipwell!
