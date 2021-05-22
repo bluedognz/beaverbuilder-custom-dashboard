@@ -20,6 +20,6 @@
 .metabox-holder .postbox-container .empty-container:after {
 	content: none;
 }
-#dashboard-widgets .postbox-container .empty-container {
-	display: none;
+div#dashboard-widgets-wrap {
+    display: none;
 }
