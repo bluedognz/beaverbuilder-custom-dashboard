@@ -12,6 +12,7 @@ Change Log
 
 - It's still alive!
 - Minor css tweak to hide dashboard widgets
+- Remove broken link from README.md
 
 0.4 - October 2016
 
