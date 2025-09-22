@@ -90,7 +90,6 @@ class BBCD_Settings {
 
 		$clean['enable_custom_dashboard'] = ! empty( $input['enable_custom_dashboard'] ) ? 1 : 0;
 
-		// Capabilities whitelist
 		$allowed_caps = array(
 			'manage_options',
 			'edit_others_posts',
