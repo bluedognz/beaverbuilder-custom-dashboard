@@ -8,6 +8,14 @@ Copyright 2016 Blue Dog Digital Marketing
 Change Log
 *********
 
+1.1 SEP 2025
+
+- Push test - no actual updates
+
+1.0 - Sep 2025
+
+- Added Github Plugin Update Checker to provide auto updates from Github
+
 0.5 - May 2021
 
 - It's still alive!
