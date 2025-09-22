@@ -37,7 +37,7 @@ $updateChecker = PucFactory::buildUpdateChecker(
 );
 
 // 3. (Optional) If you release from a branch other than 'main':
-// $updateChecker->setBranch('main');
+$updateChecker->setBranch('main');
 
 // 4. (Optional) If repo is private or to avoid GitHub rate limits, use a token:
 if ( defined('BB_CUSTOM_DASH_GH_TOKEN') && BB_CUSTOM_DASH_GH_TOKEN ) {
